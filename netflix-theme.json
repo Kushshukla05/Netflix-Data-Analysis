@@ -1,0 +1,31 @@
+{
+    "name": "Netflix Theme",
+    "dataColors": [
+      "#E50914", "#221F1F", "#B3B3B3", "#FFFFFF", "#F5F5F1"
+    ],
+    "background": "#221F1F",
+    "foreground": "#FFFFFF",
+    "tableAccent": "#E50914",
+    "visualStyles": {
+      "*": {
+        "*": {
+          "visualHeader": [{
+            "background": {
+              "color": "#221F1F"
+            }
+          }]
+        }
+      }
+    },
+    "textClasses": {
+      "header": {
+        "fontFace": "Arial Black",
+        "color": "#E50914"
+      },
+      "title": {
+        "fontFace": "Arial",
+        "color": "#FFFFFF"
+      }
+    }
+  }
+  
