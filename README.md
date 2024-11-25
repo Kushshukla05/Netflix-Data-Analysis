@@ -1,5 +1,5 @@
 Netflix Data Analysis Project
-Project Link (Provide your GitHub repository link here)
+Project Link - https://github.com/Kushshukla05/Netflix-Data-Analysis.git
 
 Overview
 In this project, I analyzed Netflix content trends, focusing on country distribution, duration, and key contributors to the platform's content library. This analysis provided insights into genre trends, the dominance of U.S. content, and the most common content durations. The goal was to uncover patterns in Netflix's offerings and provide actionable insights for content strategy.
